@@ -126,37 +126,6 @@ sistem-pakar-penyakit-mata/
 │
 └── README.md
 ```
-
----
-
-## 📸 Screenshot
-
-### Halaman Login
-
-Tambahkan screenshot halaman login di sini.
-
-```md
-![Login](screenshots/login.png)
-```
-
-### Halaman Diagnosa
-
-```md
-![Diagnosa](screenshots/diagnosa.png)
-```
-
-### Hasil Diagnosa
-
-```md
-![Hasil Diagnosa](screenshots/hasil-diagnosa.png)
-```
-
-### Dashboard Admin
-
-```md
-![Dashboard](screenshots/dashboard-admin.png)
-```
-
 ---
 
 ## 🚀 Cara Menjalankan Project
